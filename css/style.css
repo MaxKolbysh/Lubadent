@@ -59,6 +59,7 @@ body:after {
     right: 0;
     z-index: 999;
     background: rgba(0, 0, 0, 0.2); }
+    
 
 .btn {
   font-size: 16px;
@@ -69,8 +70,8 @@ body:after {
     -webkit-box-shadow: none !important;
     box-shadow: none !important; }
   .btn.btn-primary {
-    background: #207561;
-    border-color: #207561;
+    background: #ebafb1;
+    border-color: #ebafb1;
     color: #fff; }
     .btn.btn-primary:hover {
       background: #000;
@@ -280,7 +281,7 @@ body:after {
     .site-navbar .site-logo a {
       display: inline-block;
       padding: 5px 10px;
-      color: #207561 !important; }
+      color: #de3894 !important; }
   .site-navbar .site-navigation .site-menu {
     margin: 0;
     padding: 0;
@@ -538,7 +539,7 @@ body:after {
   .sticky-wrapper .site-navbar .site-menu > li > a {
     color: rgba(0, 0, 0, 0.7) !important; }
     .sticky-wrapper .site-navbar .site-menu > li > a:hover, .sticky-wrapper .site-navbar .site-menu > li > a.active {
-      color: #207561 !important; }
+      color: #ebafb1 !important; }
   .sticky-wrapper.is-sticky .site-navbar {
     background: #fff;
     border-bottom: 1px solid transparent;
@@ -647,7 +648,7 @@ body:after {
       height: 50px;
       line-height: 50px;
       border-radius: 50%;
-      background: #207561;
+      background: #ebafb1;
       display: inline-block;
       color: #fff;
       text-align: center; }
